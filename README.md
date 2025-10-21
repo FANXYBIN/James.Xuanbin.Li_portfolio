@@ -1,7 +1,18 @@
-# [Project 1: Superstore Sales Performance Analysis & Forecasting](https://github.com/FANXYBIN/Project1_Superstore_Dataset)
+# 🌟 Xuanbin Li — Data Analytics & AI Portfolio
 
+Welcome to my project portfolio!  
+I specialize in data analytics, statistical modeling, and AI-driven insights using **R**, **Python**, **SQL**, and **AI frameworks**.  
+Click each section below to explore projects by language or domain.
+
+---
+
+## 🧮 R Projects
 <details>
-<summary>📘 Click to view project details</summary>
+<summary>📘 Click to view projects built with R</summary>
+
+---
+
+### [Project 1: Superstore Sales Performance Analysis & Forecasting](https://github.com/FANXYBIN/Project1_Superstore_Dataset)
 
 This project analyzed a global superstore dataset (2011–2014) using R to explore business performance and forecast future sales and profit trends.
 
@@ -10,10 +21,9 @@ This project analyzed a global superstore dataset (2011–2014) using R to explo
 * **Techniques:** Data cleaning, visualization (bar, pie, scatter, box, treemap), correlation analysis, and ARIMA time series forecasting.  
 * **Key Insights:**  
   - APAC market and Central region achieved the highest sales and profit.  
-  - "Phones" under *Technology* had the highest sales, while *Tables* incurred losses.  
+  - “Phones” under *Technology* had the highest sales, while *Tables* incurred losses.  
   - Profit negatively correlated with Discount.  
   - ARIMA forecast predicted a continued increase in 2015 sales and profit.  
-* **Result:** Provided data-driven insights into regional and category-level performance and built an ARIMA model for forecasting next-year trends.  
 
 ---
 
@@ -25,14 +35,9 @@ This project analyzed a global superstore dataset (2011–2014) using R to explo
 **ARIMA Forecast for Next Year (Sales)**  
 ![ARIMA Forecast for Next Year (Sales)](images/ARIMA%20forecast%20for%20Sales.png)
 
-</details>
-
 ---
 
-# [Project 2: Beijing Housing Price Analysis & Hypothesis Testing](https://github.com/FANXYBIN/Project2_Beijing_Housing_Price_Dataset)
-
-<details>
-<summary>📘 Click to view project details</summary>
+### [Project 2: Beijing Housing Price Analysis & Hypothesis Testing](https://github.com/FANXYBIN/Project2_Beijing_Housing_Price_Dataset)
 
 This project analyzes housing prices in Beijing using R. The goal was to understand key factors influencing house prices and test hypotheses about housing market trends between 2016 and 2017.
 
@@ -44,7 +49,6 @@ This project analyzes housing prices in Beijing using R. The goal was to underst
   - Houses near subways or with elevators tend to have higher average prices.  
   - “Bungalows” are the most expensive building type, while “Towers” are more affordable.  
   - Average housing prices increased significantly from 2016 to 2017.  
-* **Result:** Provided data-driven insights into how structural and locational factors affect housing prices in Beijing and validated findings through statistical hypothesis testing.
 
 ---
 
@@ -61,3 +65,44 @@ This project analyzes housing prices in Beijing using R. The goal was to underst
 ![Average Price by Month](images/avg_price_by_month.png)
 
 </details>
+
+---
+
+## 🐍 Python Projects
+<details>
+<summary>📗 Click to view Python-based analytics and machine learning projects</summary>
+
+*(Coming soon — examples may include data preprocessing, ML classification models, or NLP analysis.)*
+
+</details>
+
+---
+
+## 🧠 AI Projects
+<details>
+<summary>🤖 Click to view AI & Deep Learning projects</summary>
+
+*(Coming soon — examples may include neural network modeling, transfer learning, or generative AI projects.)*
+
+</details>
+
+---
+
+## 💾 SQL Projects
+<details>
+<summary>🗄️ Click to view SQL-based data management and analytics projects</summary>
+
+*(Coming soon — examples may include query optimization, database design, or ETL workflows.)*
+
+</details>
+
+---
+
+## 👤 About Me
+Hi, I’m **Xuanbin Li**, a data analyst and aspiring AI practitioner.  
+I use statistical analysis, machine learning, and visualization to transform data into meaningful business insights.
+
+📫 **Connect with me:**  
+- [LinkedIn](https://linkedin.com/in/xuanbin-li)  
+- [GitHub](https://github.com/FANXYBIN)  
+- ✉️ Email: xuanbinli@example.com  
