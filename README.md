@@ -12,7 +12,7 @@ Click each section below to explore projects by language or domain.
 
 ---
 
-### 🛒 [Project 1: Superstore Sales Performance Analysis & Forecasting (https://github.com/FANXYBIN/Project1_Superstore_Dataset)
+### [Project 1: Superstore Sales Performance Analysis & Forecasting] (https://github.com/FANXYBIN/Project1_Superstore_Dataset)
 <details>
 <summary>🗂️ Click to view project details</summary>
 
@@ -42,7 +42,7 @@ This project analyzed a global superstore dataset (2011–2014) using R to explo
 
 ---
 
-### 🏙️ [Project 2: Beijing Housing Price Analysis & Hypothesis Testing] (https://github.com/FANXYBIN/Project2_Beijing_Housing_Price_Dataset)
+### [Project 2: Beijing Housing Price Analysis & Hypothesis Testing] (https://github.com/FANXYBIN/Project2_Beijing_Housing_Price_Dataset)
 <details>
 <summary>🗂️ Click to view project details</summary>
 
