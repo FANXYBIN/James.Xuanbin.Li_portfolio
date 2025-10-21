@@ -12,6 +12,5 @@ This project analyzed a global superstore dataset (2011–2014) using R to explo
   - ARIMA forecast predicted a continued increase in 2015 sales and profit.  
 * **Result:** Provided data-driven insights into regional and category-level performance and built an ARIMA model for forecasting next-year trends.  
 
-## ARIMA Forecast for Next Year(Profit)  ![](images/ARIMA forecast for Profit.png)
-## ARIMA Forecast for Next Year(Sales)  ![](images/ARIMA forecast for Sales.png)
 ## ARIMA Forecast for Next Year(Profit)  ![ARIMA Forecast for Next Year (Profit)](images/ARIMA%20forecast%20for%20Profit.png)
+## ARIMA Forecast for Next Year(Sales)  ![ARIMA Forecast for Next Year (Sales)](images/ARIMA%20forecast%20for%20Sales.png)
