@@ -11,3 +11,6 @@ This project analyzed a global superstore dataset (2011–2014) using R to explo
   - Profit negatively correlated with Discount.  
   - ARIMA forecast predicted a continued increase in 2015 sales and profit.  
 * **Result:** Provided data-driven insights into regional and category-level performance and built an ARIMA model for forecasting next-year trends.  
+
+**ARIMA Forecast for Next Year**
+![ARIMA Forecast](images/ARIMA forecast for Profit.png)
