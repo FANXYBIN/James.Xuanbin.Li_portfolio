@@ -85,23 +85,44 @@ This project analyzes housing prices in Beijing using R. The goal was to underst
 
 ---
 
-### 🤖 Example Project: Income Classification using Machine Learning
+### [P-Project 1: Seoul Bike Sharing Demand Prediction](https://github.com/FANXYBIN/P-Project1-Seoul-Bike-Sharing-Dataset)
 <details>
 <summary>🗂️ Click to view project details</summary>
 
-This project uses supervised learning techniques to classify income levels based on census data.  
+This project applied machine learning models to the Seoul Bike Sharing dataset to predict rental demand based on weather and temporal conditions. The analysis aimed to help optimize bike distribution, adjust operations during weather changes, and identify seasonal rental trends.
 
-* **Dataset:** UCI Adult Income Dataset  
-* **Tools:** Python (pandas, scikit-learn, matplotlib, seaborn)  
-* **Techniques:** Feature engineering, normalization, model training (KNN, Decision Tree, Random Forest).  
-* **Result:** Achieved 86% accuracy on the test set and identified education level and occupation as key predictors of income.  
+* **Dataset:** Seoul Bike Sharing Demand Dataset (UCI Machine Learning Repository, 8760 rows × 14 features).  
+* **Tools:** Python (pandas, scikit-learn, seaborn, matplotlib, statsmodels).  
+* **Techniques:** Data preprocessing, visualization (histogram, scatterplot, line plot, correlation heatmap), and supervised learning (SVM, Gradient Boosting, Random Forest, and Multiple Linear Regression).  
+* **Key Findings:**  
+  - **Peak demand** at 8 AM and 6 PM (commuting hours).  
+  - **Temperature (15 – 30 °C)** positively affects rentals; **rainfall, humidity, and wind speed** reduce them.  
+  - **Summer** records the highest rental activity, followed by spring and autumn.  
+* **Models Evaluated:**  
+  - **SVM:** Accuracy = 78.99%, Precision = 77.67%, Recall = 78.99%, F1 = 77.93%.  
+  - **Gradient Boosting:** Accuracy = 79.83%, F1 = 79.20%.  
+  - **Random Forest:** Accuracy = 80.02%, F1 = 79.50%.  
+  - **Multiple Linear Regression:** R² = 0.473, F-statistic = 609.8 (significant predictors: hour, temperature, humidity, rainfall).  
+* **Insights & Recommendations:**  
+  - Use forecasts to rebalance bikes before morning/evening peaks.  
+  - Adjust staffing and offer promotions during poor-weather periods.  
+  - Promote biking events in warm seasons to leverage natural demand growth.
 
 ---
 
 ### 📊 Sample Visualizations
-![Confusion Matrix](images/python_income_confusion_matrix.png)
+
+**Hourly Rentals by Season**  
+![Line Plot](images/seoul_lineplot_season.png)
+
+**Correlation Heatmap**  
+![Heatmap](images/seoul_heatmap.png)
+
+**Model Performance Comparison**  
+![Model Comparison](images/seoul_model_performance.png)
 
 </details>
+
 
 </details>
 
