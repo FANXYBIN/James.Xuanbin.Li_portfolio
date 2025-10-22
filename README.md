@@ -1,7 +1,7 @@
 # 🌟 Xuanbin Li — Data Analytics & AI Portfolio
 
 Welcome to my project portfolio!  
-I specialize in data analytics, statistical modeling, and AI-driven insights using **R**, **Python**, **SQL**, and **AI frameworks**.  
+I specialize in data analytics, statistical modeling, and AI-driven insights using **R**, **Python**, **SQL**, **AI**, and **Dashboard**.  
 Click each section below to explore projects by language or domain.
 
 ---
@@ -150,6 +150,35 @@ Built a Long Short-Term Memory (LSTM) network for sentiment analysis on product 
 ### 📊 Sample Visualizations
 ![Training Accuracy](images/ai_lstm_accuracy.png)
 ![Loss Curve](images/ai_lstm_loss.png)
+
+</details>
+
+</details>
+
+---
+
+## 🧠 Dashboard
+
+<details>
+<summary>🤖 Click to view AI and Deep Learning projects</summary>
+
+---
+
+### 🤖 Example Project: Income Classification using Machine Learning
+<details>
+<summary>🗂️ Click to view project details</summary>
+
+This project uses supervised learning techniques to classify income levels based on census data.  
+
+* **Dataset:** UCI Adult Income Dataset  
+* **Tools:** Python (pandas, scikit-learn, matplotlib, seaborn)  
+* **Techniques:** Feature engineering, normalization, model training (KNN, Decision Tree, Random Forest).  
+* **Result:** Achieved 86% accuracy on the test set and identified education level and occupation as key predictors of income.  
+
+---
+
+### 📊 Sample Visualizations
+![Confusion Matrix](images/python_income_confusion_matrix.png)
 
 </details>
 
