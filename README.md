@@ -185,7 +185,7 @@ Built a Long Short-Term Memory (LSTM) network for sentiment analysis on product 
 
 ---
 
-### [D-Project 1: Global Sustainable Energy Visualization & Analysis]
+### [D-Project 1: Global Sustainable Energy Visualization & Analysis](https://github.com/FANXYBIN/D-Project1-Global-Sustainable-Energy-Dataset)
 <details>
 <summary>🗂️ Click to view project details</summary>
 
