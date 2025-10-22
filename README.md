@@ -187,10 +187,10 @@ This project uses supervised learning techniques to classify income levels based
 ---
 
 ## 👤 About Me
-Hi, I’m **Xuanbin Li**, a data analyst and aspiring AI practitioner.  
+Hi, I’m **James Xuanbin Li**, a data analyst and aspiring AI practitioner.  
 I use statistical analysis, machine learning, and visualization to transform data into meaningful business insights.
 
 📫 **Connect with me:**  
 - [LinkedIn](https://linkedin.com/in/xuanbin-li)  
 - [GitHub](https://github.com/FANXYBIN)  
-- ✉️ Email: xuanbinli@example.com  
+- ✉️ Email: james.xb.li13@gmail.com  
