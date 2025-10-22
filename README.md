@@ -13,6 +13,7 @@ Click each section below to explore projects by language or domain.
 ---
 
 # [Project 1: Superstore Sales Performance Analysis & Forecasting] (https://github.com/FANXYBIN/Project1_Superstore_Dataset)
+
 <details>
 <summary>🗂️ Click to view project details</summary>
 
