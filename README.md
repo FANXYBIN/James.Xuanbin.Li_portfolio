@@ -33,10 +33,10 @@ This project analyzed a global superstore dataset (2011–2014) using R to explo
 ### 📊 Sample Visualizations
 
 **ARIMA Forecast for Next Year (Profit)**  
-![ARIMA Forecast for Next Year (Profit)](images/ARIMA%20forecast%20for%20Profit.png)
+![](images/ARIMA%20forecast%20for%20Profit.png)
 
 **ARIMA Forecast for Next Year (Sales)**  
-![ARIMA Forecast for Next Year (Sales)](images/ARIMA%20forecast%20for%20Sales.png)
+![](images/ARIMA%20forecast%20for%20Sales.png)
 
 </details>
 
