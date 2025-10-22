@@ -31,7 +31,7 @@ This project analyzed a global superstore dataset (2011–2014) using R to explo
 
 ---
 
-### 📊 Sample Visualizations
+### 📈 Sample Visualizations
 
 **ARIMA Forecast for Next Year (Profit)**  
 ![](images/ARIMA%20forecast%20for%20Profit.png)
@@ -61,7 +61,7 @@ This project analyzes housing prices in Beijing using R. The goal was to underst
 
 ---
 
-### 📊 Sample Visualizations
+### 📈 Sample Visualizations
 
 **Boxplots: Price vs Building Type & Structure**  
 ![Boxplot Building Type](images/boxplot_buildingtype.png)  
@@ -110,7 +110,7 @@ This project applied machine learning models to the Seoul Bike Sharing dataset t
 
 ---
 
-### 📊 Sample Visualizations
+### 📈 Sample Visualizations
 
 **Hourly Rentals by Season**  
 ![Line Plot](images/seoul_lineplot_season.png)
@@ -168,7 +168,7 @@ Built a Long Short-Term Memory (LSTM) network for sentiment analysis on product 
 
 ---
 
-### 📊 Sample Visualizations
+### 📈 Sample Visualizations
 ![Training Accuracy](images/ai_lstm_accuracy.png)
 ![Loss Curve](images/ai_lstm_loss.png)
 
@@ -178,28 +178,65 @@ Built a Long Short-Term Memory (LSTM) network for sentiment analysis on product 
 
 ---
 
-## 🧠 Dashboard
+## 📊 Dashboard Projects
 
 <details>
 <summary>🤖 Click to view AI and Deep Learning projects</summary>
 
 ---
 
-### 🤖 Example Project: Income Classification using Machine Learning
+### [D-Project 1: Global Sustainable Energy Visualization & Analysis]
 <details>
 <summary>🗂️ Click to view project details</summary>
 
-This project uses supervised learning techniques to classify income levels based on census data.  
+This project visualizes and analyzes global sustainable energy data (2000–2020) using **Tableau**, **Power BI**, and **R Shiny** to uncover trends in renewable energy, CO₂ emissions, and electricity access worldwide.
 
-* **Dataset:** UCI Adult Income Dataset  
-* **Tools:** Python (pandas, scikit-learn, matplotlib, seaborn)  
-* **Techniques:** Feature engineering, normalization, model training (KNN, Decision Tree, Random Forest).  
-* **Result:** Achieved 86% accuracy on the test set and identified education level and occupation as key predictors of income.  
+* **Dataset:** *Global Data on Sustainable Energy* (Kaggle, 3,649 rows × 21 features).  
+* **Tools:** Tableau, Power BI, R Shiny (R, ggplot2, dplyr, shinydashboard), DAX.  
+* **Techniques:** Data cleaning, parameter-based filtering, interactive dashboard design, and regression visualization.  
+* **Objective:** Explore the transition toward renewable energy and identify disparities in global access to electricity.
 
 ---
 
-### 📊 Sample Visualizations
-![Confusion Matrix](images/python_income_confusion_matrix.png)
+### 📊 Dashboards & Insights
+
+**Tableau Dashboard**
+- Explored access to electricity, energy generation by source, and renewable growth across years.  
+- Used maps, bar charts, and parameters (Top X) to identify top-performing countries.  
+- Highlighted a steady increase in renewable electricity generation and energy aid to developing countries.
+
+**Power BI Dashboard**
+- Designed “Global Energy Development Indicators” with slicers, cards, maps, and line charts.  
+- Created DAX measures to calculate renewable, nuclear, and fossil fuel shares.  
+- Revealed that renewable energy share is rising while fossil fuel dependence remains high.
+
+**R Shiny Dashboard**
+- Built an interactive web app with filters for **year** and **country**.  
+- Visualized:
+  - Renewable electricity capacity growth (line chart).  
+  - Energy generation mix (stacked bar).  
+  - CO₂ vs. low-carbon electricity (scatter with regression).  
+  - Top 10 CO₂-emitting countries (bar chart).  
+- Demonstrated negative correlation between CO₂ emissions and low-carbon electricity share.
+
+---
+
+### 🌱 Key Findings
+- Renewable energy generation increased steadily between 2000–2020.  
+- Developing countries benefited from financial aid but still rely heavily on fossil fuels.  
+- Low-carbon electricity adoption significantly reduces CO₂ emissions.  
+- Africa and South Asia show persistent electricity access gaps.
+
+---
+
+### 🧠 Skills Demonstrated
+- Data storytelling through visualization  
+- Parameter and DAX calculations  
+- R Shiny UI/Server development  
+- Interactive, multi-tool dashboard integration  
+
+**[Dataset Source → Kaggle](https://www.kaggle.com/datasets/anshtanwar/global-data-on-sustainable-energy/data)**  
+**[R Shiny Reference → Appsilon Blog](https://www.appsilon.com/post/r-shiny-in-life-sciences-examples)**  
 
 </details>
 
