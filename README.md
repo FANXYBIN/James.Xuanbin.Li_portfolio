@@ -246,7 +246,7 @@ This project visualizes and analyzes global sustainable energy data (2000–2020
 
 </details>
 
-### [Project 2: PowerTrust Renewable Energy Dashboard]()
+### [D-Project 2: PowerTrust Renewable Energy Dashboard](https://github.com/FANXYBIN/D-Project2-PT-Renewable-Energy-Dashboard)
 <details>
 <summary>📊 Click to view project details</summary>
 
