@@ -307,7 +307,7 @@ The dashboard helps PowerTrust identify high-performing projects, track emission
 ### 🖥️ Dashboard
 
 ![](images/PT%20Dashboard.png)
-<img src="images/PT%20Dashboard.png" width="500"/>
+<img src="images/PT%20Dashboard.png" width="1000"/>
 ![](images/PT%20Dashboard_India.png)
 ![](images/PT%20Dashboard_India2.png)
 
