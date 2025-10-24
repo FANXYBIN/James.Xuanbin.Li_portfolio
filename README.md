@@ -342,9 +342,9 @@ Using **PySpark** for preprocessing and **Tableau** for visualization, we develo
 - **Donut Chart:** Shows weather condition proportions during accidents.  
 - **Stacked Bar Chart:** Highlights accident frequency near key traffic features (e.g., crossings, junctions, signals).  
 
-<img src="images/US Dashboard1.png" width="700"/>
-<img src="images/US Dashboard2.png" width="700"/>
-<img src="images/US Dashboard3.png" width="700"/>
+<img src="images/US%20Dashboard1.png" width="700"/>
+<img src="images/US%20Dashboard2.png" width="700"/>
+<img src="images/US%20Dashboard3.png" width="700"/>
 
 ---
 
