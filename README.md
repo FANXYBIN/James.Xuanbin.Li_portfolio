@@ -205,14 +205,14 @@ This project visualizes and analyzes global sustainable energy data (2000–2020
 - Used maps, bar charts, and parameters (Top X) to identify top-performing countries.  
 - Highlighted a steady increase in renewable electricity generation and energy aid to developing countries.
  
-![](images/Global%20Sustainable%20Energy_Tableau.png)
+<img src="images/Global%20Sustainable%20Energy_Tableau.png" width="1000"/>
 
 **Power BI Dashboard**
 - Designed “Global Energy Development Indicators” with slicers, cards, maps, and line charts.  
 - Created DAX measures to calculate renewable, nuclear, and fossil fuel shares.  
 - Revealed that renewable energy share is rising while fossil fuel dependence remains high.
 
-![](images/Global%20Sustainable%20Energy_PBI.png)
+<img src="images/Global%20Sustainable%20Energy_PBI.png" width="1000"/>
 
 **R Shiny Dashboard**
 - Built an interactive web app with filters for **year** and **country**.  
@@ -223,8 +223,7 @@ This project visualizes and analyzes global sustainable energy data (2000–2020
   - Top 10 CO₂-emitting countries (bar chart).  
 - Demonstrated negative correlation between CO₂ emissions and low-carbon electricity share.
 
-![](images/Global%20Sustainable%20Energy_RShiny.png)
-<img src="images/Global%20Sustainable%20Energy_RShiny.png" width="1000"/>
+<img src="images/Global%20Sustainable%20Energy_RShiny.png" width="800"/>
 
 ---
 
