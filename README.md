@@ -224,6 +224,7 @@ This project visualizes and analyzes global sustainable energy data (2000–2020
 - Demonstrated negative correlation between CO₂ emissions and low-carbon electricity share.
 
 ![](images/Global%20Sustainable%20Energy_RShiny.png)
+<img src="images/Global%20Sustainable%20Energy_RShiny.png" width="1000"/>
 
 ---
 
@@ -306,10 +307,9 @@ The dashboard helps PowerTrust identify high-performing projects, track emission
 
 ### 🖥️ Dashboard
 
-![](images/PT%20Dashboard.png)
 <img src="images/PT%20Dashboard.png" width="1000"/>
-![](images/PT%20Dashboard_India.png)
-![](images/PT%20Dashboard_India2.png)
+<img src="images/PT%20Dashboard_India.png" width="1000"/>
+<img src="images/PT%20Dashboard_India2.png" width="1000"/>
 
 </details>
 
