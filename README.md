@@ -212,7 +212,7 @@ This project visualizes and analyzes global sustainable energy data (2000–2020
 - Created DAX measures to calculate renewable, nuclear, and fossil fuel shares.  
 - Revealed that renewable energy share is rising while fossil fuel dependence remains high.
 
-<img src="images/Global%20Sustainable%20Energy_PBI.png" width="1000"/>
+<img src="images/Global%20Sustainable%20Energy_PBI.png" width="700"/>
 
 **R Shiny Dashboard**
 - Built an interactive web app with filters for **year** and **country**.  
@@ -223,7 +223,7 @@ This project visualizes and analyzes global sustainable energy data (2000–2020
   - Top 10 CO₂-emitting countries (bar chart).  
 - Demonstrated negative correlation between CO₂ emissions and low-carbon electricity share.
 
-<img src="images/Global%20Sustainable%20Energy_RShiny.png" width="800"/>
+<img src="images/Global%20Sustainable%20Energy_RShiny.png" width="700"/>
 
 ---
 
