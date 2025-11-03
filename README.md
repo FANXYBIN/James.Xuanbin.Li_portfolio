@@ -372,7 +372,7 @@ Using **PySpark** for preprocessing and **Tableau** for visualization, we develo
 
 </details>
 
-### [D-Project4: OpenRep Social Media Analytics Dashboard](https://github.com/FANXYBIN/D-Project4-OP-Social-Media-Analytics-Dashboard)
+### [D-Project 4: OpenRep Social Media Analytics Dashboard](https://github.com/FANXYBIN/D-Project4-OP-Social-Media-Analytics-Dashboard)
 
 <details>
 <summary>📊 Click to view project details</summary>
