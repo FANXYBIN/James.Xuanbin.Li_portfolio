@@ -372,7 +372,10 @@ Using **PySpark** for preprocessing and **Tableau** for visualization, we develo
 
 </details>
 
-### [D-Project4: OpenRep Social Media Analytics Dashboard]()
+### [D-Project4: OpenRep Social Media Analytics Dashboard](https://github.com/FANXYBIN/D-Project4-OP-Social-Media-Analytics-Dashboard)
+
+<details>
+<summary>📊 Click to view project details</summary>
 
 This capstone project, in collaboration with **OpenRep**, focused on designing a full-stack **data pipeline and analytics dashboard** to evaluate social media engagement across multiple platforms — including Instagram, Twitter(X), LinkedIn, Pinterest, and Facebook.  
 The system automated data ingestion, cleaning, anomaly detection, and visualization to support OpenRep’s content performance insights.
@@ -463,7 +466,7 @@ The system automated data ingestion, cleaning, anomaly detection, and visualizat
 - KPI engineering and visualization design  
 - Cross-team collaboration & presentation (MIT Sloan reference integration)  
 
-
+</details>
 
 </details>
 
