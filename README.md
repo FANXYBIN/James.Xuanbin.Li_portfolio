@@ -1,4 +1,4 @@
-# 🌟 Xuanbin Li — Data Analytics & AI Portfolio
+# 🌟 James Li — Data Analytics & AI Portfolio
 
 Welcome to my project portfolio!  
 I specialize in data analytics, statistical modeling, and AI-driven insights using **R**, **Python**, **SQL**, **AI**, and **Dashboard**.  
@@ -473,7 +473,7 @@ The system automated data ingestion, cleaning, anomaly detection, and visualizat
 ---
 
 ## 👤 About Me
-Hi, I’m **James Xuanbin Li**, a data analyst and aspiring AI practitioner.  
+Hi, I’m **James Li**, a data analyst and aspiring AI practitioner.  
 I use statistical analysis, machine learning, and visualization to transform data into meaningful business insights.
 
 📫 **Connect with me:**  
