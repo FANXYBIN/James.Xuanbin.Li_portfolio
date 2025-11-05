@@ -155,10 +155,10 @@ Integrated with Tableau for interactive visualization.
 
 ---
 
+### [A-Project 1: Personality Classification & Model Monitoring with Vertex AI](https://github.com/FANXYBIN/A-Project-Personality-Classification-Model-Monitoring-with-Vertex-AI)
+
 <details>
 <summary>🗂️ Click to view project details</summary>
-
-# [A-Project 1: Personality Classification & Model Monitoring with Vertex AI](https://github.com/FANXYBIN/A-Project-Personality-Classification-Model-Monitoring-with-Vertex-AI)
 
 This project developed an **AutoML personality classification model** using **Google Vertex AI**, predicting whether users are **introverts or extroverts** based on social and behavioral traits.  
 The full pipeline included **dataset creation**, **model training**, **evaluation**, **deployment**, and **automated monitoring** to ensure long-term reliability and fairness.
