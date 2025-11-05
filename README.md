@@ -155,7 +155,7 @@ Integrated with Tableau for interactive visualization.
 <summary>🤖 Click to view AI and Deep Learning projects</summary>
 
 ---
-
+(https://github.com/FANXYBIN/A-Project-Personality-Classification-Model-Monitoring-with-Vertex-AI)
 ### 🧩 Example Project: Text Sentiment Analysis using LSTM
 <details>
 <summary>🗂️ Click to view project details</summary>
