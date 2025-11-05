@@ -15,7 +15,6 @@ Click each section below to explore projects by language or domain.
 ### [R-Project 1: Superstore Sales Performance Analysis & Forecasting](https://github.com/FANXYBIN/Project1_Superstore_Dataset)
 
 <details>
-<summary>🗂️ Click to view project details</summary>
 
 This project analyzed a global superstore dataset (2011–2014) using R to explore business performance and forecast future sales and profit trends.
 
