@@ -497,7 +497,7 @@ This project visualizes and analyzes global sustainable energy data (2000–2020
 
 ### [D-Project 2: PowerTrust Renewable Energy Dashboard](https://github.com/FANXYBIN/D-Project2-PT-Renewable-Energy-Dashboard)
 <details>
-<summary>📊 Click to view project details</summary>
+<summary>🗂️ Click to view project details</summary>
 
 This project was completed in collaboration with **PowerTrust**, focusing on developing a Tableau dashboard to visualize renewable energy generation and Distributed Renewable Energy Certificates (D-RECs) across multiple countries.  
 The dashboard helps PowerTrust identify high-performing projects, track emission reductions, and make data-driven sustainability decisions.
@@ -564,7 +564,7 @@ The dashboard helps PowerTrust identify high-performing projects, track emission
 
 ### [D-Project 3: U.S. Traffic Accident Analysis Dashboard](https://github.com/FANXYBIN/D-Project3-U.S.-Traffic-Accident-Analysis-Dashboard)
 <details>
-<summary>📊 Click to view project details</summary>
+<summary>🗂️ Click to view project details</summary>
 
 This project analyzed a large-scale dataset of U.S. traffic accidents from **2016–2023**, containing over **7.7 million records** and 46 features across all 49 states.  
 Using **PySpark** for preprocessing and **Tableau** for visualization, we developed a scalable analytical dashboard to identify trends, high-risk regions, and contributing factors behind road accidents.
@@ -624,7 +624,7 @@ Using **PySpark** for preprocessing and **Tableau** for visualization, we develo
 ### [D-Project 4: OpenRep Social Media Analytics Dashboard](https://github.com/FANXYBIN/D-Project4-OP-Social-Media-Analytics-Dashboard)
 
 <details>
-<summary>📊 Click to view project details</summary>
+<summary>🗂️ Click to view project details</summary>
 
 This capstone project, in collaboration with **OpenRep**, focused on designing a full-stack **data pipeline and analytics dashboard** to evaluate social media engagement across multiple platforms — including Instagram, Twitter(X), LinkedIn, Pinterest, and Facebook.  
 The system automated data ingestion, cleaning, anomaly detection, and visualization to support OpenRep’s content performance insights.
