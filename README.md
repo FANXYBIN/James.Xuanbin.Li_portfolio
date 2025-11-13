@@ -399,8 +399,11 @@ The final DistilBERT model was deployed as a **serverless microservice**.
 ### 💡 Applications
 
 1.Real-time customer review analysis.
+
 2.Automated support message classification.
+
 3.E-commerce product sentiment trends.
+
 4.Social media & brand monitoring.
 
 ---
@@ -408,9 +411,13 @@ The final DistilBERT model was deployed as a **serverless microservice**.
 ### 🧠 Skills Demonstrated
 
 1.Sentiment analysis with classical ML, LSTM, and Transformers.
+
 2.Deep learning model comparison.
+
 3.Docker containerization.
+
 4.Google Cloud Run deployment.
+
 5.REST API development for ML services.
 
 </details>
