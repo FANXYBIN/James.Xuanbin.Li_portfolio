@@ -6,10 +6,10 @@ Click each section below to explore projects by language or domain.
 
 ---
 
-## 🧮 R Projects
+## 🧮 EDA Projects (R + Python)
 
 <details>
-<summary>📘 Click to view R-based projects</summary>
+<summary>📘 Click to view EDA projects</summary>
 
 ---
 
@@ -911,15 +911,6 @@ Normalizing to 1990/2000 makes the long-term appreciation clearer.
 - Analysis of geographic housing market inequality  
 
 </details>
-
-
-</details>
-
----
-
-## 🐍 Python Projects
-<details>
-<summary>📗 Click to view Python-based analytics and ML projects</summary>
 
 ---
 
