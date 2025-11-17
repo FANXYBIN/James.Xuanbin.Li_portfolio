@@ -763,7 +763,7 @@ Tukey post-hoc analysis identified which groups differ:
 
 ---
 
-### [P-Project 1: Seoul Bike Sharing Demand Prediction](https://github.com/FANXYBIN/P-Project1-Seoul-Bike-Sharing-Dataset)
+### [P-Project 1: Seoul Bike Sharing Analysis — Clustering, EDA & Machine Learning](https://github.com/FANXYBIN/P-Project1-Seoul-Bike-Sharing-Dataset)
 
 <details>
 <summary>🗂️ Click to view project details</summary>
