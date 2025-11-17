@@ -532,6 +532,12 @@ Not yet. While achieving strong accuracy (80% val, 71% test), deployment-readine
 
 </details>
 
+
+
+(https://github.com/FANXYBIN/A-Project-5-CIFAR-10-Image-Classification-Overfitting-Analysis-ResNet-34-fastai-)
+
+</details>
+
 </details>
 
 ---
