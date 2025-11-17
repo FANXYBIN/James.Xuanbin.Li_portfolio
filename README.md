@@ -718,16 +718,16 @@ Tukey post-hoc analysis identified which groups differ:
   <p><em>Tukey test for Color</em></p>
 </div>
 
--**Statistically Significant**: J - E, J - D, I - E, etc.
--**Not Statistically Significant**: E - D, J - I
+- **Statistically Significant**: J - E, J - D, I - E, etc.
+- **Not Statistically Significant**: E - D, J - I
 
 <div align="center">
   <img src="images/diamond_tukey_clarity.png" width="650"/>
   <p><em>Tukey test for Clarity</em></p>
 </div>
 
--**Statistically Significant**: VVS1 - SI2, SI2 - IF, VVS2 - SI2, etc.
--**Not Statistically Significant**: VS2 - I1, SI1 - I1, VS1 - I1, etc.
+- **Statistically Significant**: VVS1 - SI2, SI2 - IF, VVS2 - SI2, etc.
+- **Not Statistically Significant**: VS2 - I1, SI1 - I1, VS1 - I1, etc.
 
 ---
 
