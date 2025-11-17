@@ -496,7 +496,7 @@ Result: **Reject H₁**
 
 </details>
 
-### [R-Project 3: Diamond Price Analysis, Regression Modeling & ANOVA (R)]()
+### [R-Project 3: Diamond Price Analysis, Regression Modeling & ANOVA (R)](https://github.com/FANXYBIN/R-Project-3-Diamond-Price-Analysis-Regression-Modeling-ANOVA-R-)
 
 <details>
 <summary>📊 Click to view project details</summary>
