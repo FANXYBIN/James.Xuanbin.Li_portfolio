@@ -1209,7 +1209,7 @@ These clusters can support **inventory planning**, **weather-based promotions**,
 ---
 
 
-### [S-Project 1: Hotel Management Database Design, Normalization & SQL Operations (MySQL)]()
+### [S-Project 1: Hotel Management Database Design, Normalization & SQL Operations (MySQL)](https://github.com/FANXYBIN/S-Project-1-Hotel-Management-Database-Design-Normalization-SQL-Operations-MySQL-)
 
 <details>
 <summary>🗂️ Click to view project details</summary>
