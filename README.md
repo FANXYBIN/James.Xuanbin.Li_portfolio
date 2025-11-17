@@ -252,7 +252,6 @@ Using monthly aggregated data:
 
 </details>
 
----
 
 ### [R-Project 2: Beijing Housing Price Analysis & Hypothesis Testing](https://github.com/FANXYBIN/R-Project-2_Beijing_Housing_Price_Dataset)
 
