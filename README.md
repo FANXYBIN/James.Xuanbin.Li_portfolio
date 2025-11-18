@@ -1,7 +1,67 @@
 # 🌟 James Li — Data Analytics & AI Portfolio
 
 Welcome to my project portfolio!  
-I specialize in data analytics, statistical modeling, and AI-driven insights using **R**, **Python**, **SQL**, **AI**, and **Dashboard**.  
+
+<details>
+<summary>⚡ Click to view Qualifications Summary</summary>
+
+### 📊 Data Analytics & Statistical Modeling
+- Proficient in **R and Python** for data cleaning, wrangling, visualization, and exploratory analysis.
+- Built forecasting and statistical models including **ARIMA**, linear regression, and hypothesis testing.
+- Conducted NLP workflows with **NLTK**, including tokenization, POS tagging, TF–IDF vectorization, and multi-class text classification.
+- Performed advanced EDA on large datasets from retail, transportation, housing, and healthcare domains.
+
+---
+
+### 🤖 Machine Learning & AI Development
+- Experienced with **scikit-learn, TensorFlow, and Hugging Face** for supervised and deep learning models.
+- Developed models including **SVM, Random Forest, Gradient Boosting, Logistic Regression, LSTM**, and **DistilBERT**.
+- Deployed ML microservices using **Docker + Google Cloud Run** for real-time inference.
+- Built clustering models using **K-means and Hierarchical Clustering** to identify behavioral and demand patterns.
+
+---
+
+### 🧵 Big Data & Distributed Computing
+- Worked with **Apache Spark** (PySpark & sparklyr) for large-scale ETL, transformation, and aggregation.
+- Analyzed multi-year housing market datasets (ZHVI & HPI) using distributed processing.
+- Created time-series visualizations and large-volume statistical summaries from Spark-based pipelines.
+
+---
+
+### 🗄️ SQL, Database Design & Data Warehousing
+- Designed relational schemas and normalized real-world datasets to **1NF, 2NF, and 3NF**.
+- Built complete **Star Schemas** for ICU/SICU capacity, pharmacy claims, and public housing inspection data.
+- Implemented **PK/FK constraints, surrogate keys, SCD Type 2**, and aggregated fact tables.
+- Strong SQL experience: joins, inserts, updates, deletes, aggregations, window functions (LAG/LEAD).
+
+---
+
+### 📈 Business Intelligence & Visualization
+- Created analytical dashboards using **Tableau** and data visualizations in **ggplot2, Seaborn, Matplotlib**.
+- Built correlation heatmaps, treemaps, time-series charts, seasonal patterns, bar/line plots, and EDA summaries.
+- Produced executive-level insights for operational decisions in healthcare, retail, real estate, and transportation.
+
+---
+
+### ☁️ Software Development & Cloud Deployment
+- Containerized ML models using **Docker** and deployed them as scalable services on **Google Cloud Run**.
+- Familiar with API integration and testing using Postman and RESTful designs.
+- Skilled in collaborative development using Git, GitHub, and Markdown documentation.
+
+---
+
+### 🛠️ Technical Skills
+**Languages:** Python, R, SQL  
+**ML Frameworks:** scikit-learn, TensorFlow, Hugging Face Transformers, NLTK  
+**Big Data:** PySpark, sparklyr  
+**Databases:** MySQL, Star Schema, SCD Type 2  
+**Visualization:** Tableau, ggplot2, Seaborn, Matplotlib  
+**Cloud/DevOps:** Docker, Google Cloud Run  
+**Tools:** Jupyter Notebook, RStudio, GitHub, Postman
+
+</details>
+
+
 Click each section below to explore projects by language or domain.
 
 ---
@@ -253,7 +313,7 @@ Using monthly aggregated data:
 </details>
 
 
-### [R-Project 2: Beijing Housing Price Analysis & Hypothesis Testing](https://github.com/FANXYBIN/R-Project-2_Beijing_Housing_Price_Dataset)
+### [R-Project 2: Beijing Housing Price Analysis & Hypothesis Testing(R)](https://github.com/FANXYBIN/R-Project-2_Beijing_Housing_Price_Dataset)
 
 <details>
 <summary>📊 Click to view project details</summary>
@@ -913,7 +973,7 @@ Normalizing to 1990/2000 makes the long-term appreciation clearer.
 </details>
 
 
-### [P-Project 1: Seoul Bike Sharing Analysis — Clustering, EDA & Machine Learning](https://github.com/FANXYBIN/P-Project1-Seoul-Bike-Sharing-Dataset)
+### [P-Project 1: Seoul Bike Sharing Analysis — Clustering, EDA & Machine Learning(Python)](https://github.com/FANXYBIN/P-Project1-Seoul-Bike-Sharing-Dataset)
 
 <details>
 <summary>🗂️ Click to view project details</summary>
@@ -2762,7 +2822,7 @@ They are visually similar to other classes:
 
 ---
 
-### [D-Project 1: Global Sustainable Energy Visualization & Analysis](https://github.com/FANXYBIN/D-Project1-Global-Sustainable-Energy-Dataset)
+### [D-Project 1: Global Sustainable Energy Visualization & Analysis(Tableau, Power BI, R Shiny)](https://github.com/FANXYBIN/D-Project1-Global-Sustainable-Energy-Dataset)
 <details>
 <summary>🗂️ Click to view project details</summary>
 
@@ -2823,7 +2883,7 @@ This project visualizes and analyzes global sustainable energy data (2000–2020
 
 </details>
 
-### [D-Project 2: PowerTrust Renewable Energy Dashboard](https://github.com/FANXYBIN/D-Project2-PT-Renewable-Energy-Dashboard)
+### [D-Project 2: PowerTrust Renewable Energy Dashboard(Tableau)](https://github.com/FANXYBIN/D-Project2-PT-Renewable-Energy-Dashboard)
 <details>
 <summary>🗂️ Click to view project details</summary>
 
@@ -2890,7 +2950,8 @@ The dashboard helps PowerTrust identify high-performing projects, track emission
 </details>
 
 
-### [D-Project 3: U.S. Traffic Accident Analysis Dashboard](https://github.com/FANXYBIN/D-Project3-U.S.-Traffic-Accident-Analysis-Dashboard)
+### [D-Project 3: U.S. Traffic Accident Analysis Dashboard(Tableau, PySpark)](https://github.com/FANXYBIN/D-Project3-U.S.-Traffic-Accident-Analysis-Dashboard)
+
 <details>
 <summary>🗂️ Click to view project details</summary>
 
@@ -2949,7 +3010,7 @@ Using **PySpark** for preprocessing and **Tableau** for visualization, we develo
 
 </details>
 
-### [D-Project 4: OpenRep Social Media Analytics Dashboard](https://github.com/FANXYBIN/D-Project4-OP-Social-Media-Analytics-Dashboard)
+### [D-Project 4: OpenRep Social Media Analytics Dashboard(Tableau)](https://github.com/FANXYBIN/D-Project4-OP-Social-Media-Analytics-Dashboard)
 
 <details>
 <summary>🗂️ Click to view project details</summary>
