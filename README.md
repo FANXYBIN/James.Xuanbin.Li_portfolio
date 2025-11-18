@@ -1,6 +1,6 @@
 # 🌟 James Li — Data Analytics & AI Portfolio
 
-Welcome to my project portfolio!  
+***Welcome to my project portfolio!***
 
 <details>
 <summary>⚡ Click to view Qualifications Summary</summary>
