@@ -3113,7 +3113,7 @@ The system automated data ingestion, cleaning, anomaly detection, and visualizat
 
 ## 👤 About Me
 Hi, I’m **James Li**.
-I'm a Data Analyst and Machine Learning practitioner with a Master of Professional Studies in **Analytics** from Northeastern University, specializing in **Applied Machine Intelligence**. I previously worked at **Dell Yangzhou Innovation Center**, supporting enterprise software implementation, MES customization, warehouse management system development, and data visualization for manufacturing clients.
+I'm a Data Analyst and Machine Learning practitioner with a Master of Professional Studies in **Analytics** from Northeastern University, specializing in **Applied Machine Intelligence**. I previously worked at **Dell Yangzhou Innovation Center** as an IT consulting Assistant, supporting enterprise software implementation, MES customization, warehouse management system development, and data visualization for manufacturing clients.
 
 I enjoy transforming complex datasets into actionable insights through statistical analysis, machine learning, deep learning, and cloud deployment.
 
