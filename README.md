@@ -61,8 +61,9 @@ Welcome to my project portfolio!
 
 </details>
 
+---
 
-Click each section below to explore projects by language or domain.
+***Click each section below to explore projects by language or domain.***
 
 ---
 
