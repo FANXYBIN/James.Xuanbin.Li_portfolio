@@ -3112,8 +3112,11 @@ The system automated data ingestion, cleaning, anomaly detection, and visualizat
 ---
 
 ## 👤 About Me
-Hi, I’m **James Li**, a data analyst and aspiring AI practitioner.  
-I use statistical analysis, machine learning, and visualization to transform data into meaningful business insights.
+Hi, I’m **James Li**.
+I'm a Data Analyst and Machine Learning practitioner with a Master of Professional Studies in **Analytics** from Northeastern University, specializing in **Applied Machine Intelligence**. I previously worked at **Dell Yangzhou Innovation Center**, supporting enterprise software implementation, MES customization, warehouse management system development, and data visualization for manufacturing clients.
+
+I enjoy transforming complex datasets into actionable insights through statistical analysis, machine learning, deep learning, and cloud deployment.
+
 
 📫 **Connect with me:**  
 - [LinkedIn](https://linkedin.com/in/xuanbin-li)  
