@@ -2,6 +2,8 @@
 
 ***Welcome to my project portfolio!***
 
+---
+
 <details>
 <summary>⚡ Click to view Qualifications Summary</summary>
 
