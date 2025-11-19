@@ -79,7 +79,7 @@
 ### [R-Project 1: Superstore Sales, Profit & Forecasting Analysis (R)](https://github.com/FANXYBIN/Project1_Superstore_Dataset)
 
 <details>
-<summary>📁 Click to view R-based projects</summary>
+<summary>📁 Click to view project details</summary>
 
 This project analyzes the **Superstore dataset (2011–2014)** to uncover insights about sales, profit, product performance, customer segments, and regional trends using **R**.  
 It includes extensive **data cleaning**, **EDA visualizations**, **correlation analysis**, **boxplots**, and **ARIMA forecasting** for predicting 2015 sales and profit.
