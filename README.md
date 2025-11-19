@@ -79,7 +79,7 @@
 ### [R-Project 1: Superstore Sales, Profit & Forecasting Analysis (R)](https://github.com/FANXYBIN/Project1_Superstore_Dataset)
 
 <details>
-<summary>📘 Click to view R-based projects</summary>
+<summary>📁 Click to view R-based projects</summary>
 
 This project analyzes the **Superstore dataset (2011–2014)** to uncover insights about sales, profit, product performance, customer segments, and regional trends using **R**.  
 It includes extensive **data cleaning**, **EDA visualizations**, **correlation analysis**, **boxplots**, and **ARIMA forecasting** for predicting 2015 sales and profit.
@@ -319,7 +319,7 @@ Using monthly aggregated data:
 ### [R-Project 2: Beijing Housing Price Analysis & Hypothesis Testing(R)](https://github.com/FANXYBIN/R-Project-2_Beijing_Housing_Price_Dataset)
 
 <details>
-<summary>📊 Click to view project details</summary>
+<summary>📁 Click to view project details</summary>
 
 This project analyzes **housing prices in Beijing** using R.  
 The workflow includes extensive **data cleaning**, **EDA visualizations**, **correlation analysis**, and **hypothesis testing** to understand the key factors influencing house prices.
@@ -561,7 +561,7 @@ Result: **Reject H₁**
 ### [R-Project 3: Diamond Price Analysis, Regression Modeling & ANOVA (R)](https://github.com/FANXYBIN/R-Project-3-Diamond-Price-Analysis-Regression-Modeling-ANOVA-R-)
 
 <details>
-<summary>📊 Click to view project details</summary>
+<summary>📁 Click to view project details</summary>
 
 This project analyzes a **diamond price dataset (53,940 rows, 10 features)** from Kaggle to understand **price determinants**, evaluate how **carat and dimensions** influence price, and test whether **cut, color, and clarity** significantly affect mean price.  
 The analysis uses **correlation**, **linear regression**, and **ANOVA** to uncover meaningful trends in diamond valuation.
